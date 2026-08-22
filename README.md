@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/utpalbarua/LEETCODE/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
