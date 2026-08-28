@@ -12,13 +12,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
