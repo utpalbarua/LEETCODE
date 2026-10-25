@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/utpalbarua/LEETCODE/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/utpalbarua/LEETCODE/tree/master/0049-group-anagrams) |
+| [1929-concatenation-of-array](https://github.com/utpalbarua/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/utpalbarua/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
