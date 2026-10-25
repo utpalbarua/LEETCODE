@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/utpalbarua/LEETCODE/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/utpalbarua/LEETCODE/tree/master/0049-group-anagrams) |
+| [1480-running-sum-of-1d-array](https://github.com/utpalbarua/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/utpalbarua/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/utpalbarua/LEETCODE/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/utpalbarua/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
