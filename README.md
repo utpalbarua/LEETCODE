@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/utpalbarua/LEETCODE/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utpalbarua/LEETCODE/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/utpalbarua/LEETCODE/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
